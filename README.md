@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sergio Ferreras</h1>
+<h3 align="center">AI Engineer | Automation Developer | Tech Entrepreneur</h3>
 
-<!--
-**sergioferrerasruizz/sergioferrerasruizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Passionate about Artificial Intelligence, Automation and building real-world solutions.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Master's student in Artificial Intelligence
+- 🤖 Building AI agents and automation systems
+- 🏢 Founder of tech projects focused on business automation
+- 🌍 Based in Spain
+- ⚡ Fun fact: I love turning crazy ideas into working products
+
+---
+
+## 🧠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,docker,azure,mysql,git" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🤖 AI Automation Systems with n8n
+- 📊 Machine Learning Projects with Azure
+- 💬 WhatsApp AI Assistants for Business
+- 🌐 Web Development Projects
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: (tu enlace)
+- Email: (tu email)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergioferrerasruizz&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergioferrerasruizz&theme=tokyonight" />
+</p>
