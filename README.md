@@ -15,6 +15,13 @@ Construyendo soluciones de Inteligencia Artificial aplicadas al mundo real.
   <img src="https://komarev.com/ghpvc/?username=sergioferrerasruizz&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Engineering-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Systems-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure" />
+</p>
+
 ---
 
 ## 🧠 Sobre mí
@@ -55,19 +62,21 @@ Muchos repositorios están diseñados con enfoque educativo, mostrando implement
 ## 🚀 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,azure,docker,mysql,postgres,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,nodejs,azure,docker,mysql,postgres,git,github,linux" />
 </p>
 
 **Especialización técnica:**
 
 - Inteligencia Artificial & Generative AI (LLMs, asistentes, agentes)
+- Machine Learning aplicado
 - Automatización de procesos (n8n, APIs, integraciones)
 - Desarrollo backend y APIs REST
 - Data Engineering & procesamiento de datos
-- Arquitecturas cloud en Microsoft Azure
+- MLOps y despliegue de modelos
 - Sistemas conversacionales y chatbots
 - Integración de servicios y herramientas SaaS
-- Diseño de soluciones orientadas a negocio
+- Arquitecturas cloud en Microsoft Azure
+- Desarrollo de aplicaciones web
 
 ---
 
@@ -92,6 +101,22 @@ Muchos repositorios están diseñados con enfoque educativo, mostrando implement
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioferrerasruizz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Perfil técnico
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergioferrerasruizz&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Logros GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sergioferrerasruizz&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
