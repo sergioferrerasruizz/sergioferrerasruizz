@@ -12,6 +12,7 @@ Construyendo soluciones de Inteligencia Artificial aplicadas al mundo real.
   <a href="mailto:sergio.ferreras.ruiz@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=sergioferrerasruizz&style=for-the-badge" />
 </p>
 
 ---
@@ -20,7 +21,7 @@ Construyendo soluciones de Inteligencia Artificial aplicadas al mundo real.
 
 Soy desarrollador especializado en **Inteligencia Artificial, Big Data y Automatización**, con experiencia construyendo asistentes virtuales, sistemas inteligentes y soluciones basadas en datos orientadas a negocio.
 
-Actualmente soy **Co-fundador y AI Engineer**, donde desarrollo soluciones de IA para empresas, incluyendo chatbots, automatizaciones, análisis de datos y herramientas que optimizan procesos y mejoran la toma de decisiones.
+Actualmente trabajo como **AI Engineer y Co-fundador**, desarrollando soluciones de IA para empresas, incluyendo chatbots, automatizaciones, análisis de datos y herramientas que optimizan procesos y mejoran la toma de decisiones.
 
 Me interesa especialmente el desarrollo de sistemas de IA aplicados a entornos reales, combinando:
 
@@ -54,16 +55,19 @@ Muchos repositorios están diseñados con enfoque educativo, mostrando implement
 ## 🚀 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,azure,docker,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,azure,docker,mysql,postgres,git,github,linux" />
 </p>
 
-**Especialización principal:**
+**Especialización técnica:**
 
-- Inteligencia Artificial & Generative AI
-- Automatización de procesos
-- Desarrollo backend y APIs
-- Data Engineering
-- Cloud computing
+- Inteligencia Artificial & Generative AI (LLMs, asistentes, agentes)
+- Automatización de procesos (n8n, APIs, integraciones)
+- Desarrollo backend y APIs REST
+- Data Engineering & procesamiento de datos
+- Arquitecturas cloud en Microsoft Azure
+- Sistemas conversacionales y chatbots
+- Integración de servicios y herramientas SaaS
+- Diseño de soluciones orientadas a negocio
 
 ---
 
@@ -75,11 +79,11 @@ Muchos repositorios están diseñados con enfoque educativo, mostrando implement
 
 ---
 
-## 📊 Actividad en GitHub
+## 📊 Estadísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergioferrerasruizz&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergioferrerasruizz&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sergioferrerasruizz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sergioferrerasruizz&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -88,6 +92,14 @@ Muchos repositorios están diseñados con enfoque educativo, mostrando implement
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioferrerasruizz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Actividad de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
