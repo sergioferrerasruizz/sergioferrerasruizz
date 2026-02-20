@@ -97,26 +97,10 @@ Muchos repositorios están diseñados con enfoque educativo, mostrando implement
 
 ---
 
-## 📈 Lenguajes más utilizados
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioferrerasruizz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📊 Perfil técnico
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergioferrerasruizz&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Logros GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sergioferrerasruizz&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
