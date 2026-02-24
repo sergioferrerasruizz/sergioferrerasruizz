@@ -121,7 +121,7 @@ Muchos repositorios están diseñados con enfoque educativo, mostrando implement
 ---
 ## Si te gusta mi contenido me puedes ayudar comprandome un café, lo agradeceré muchisimo.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="seryikai" data-color="#FF5F5F" data-emoji=""  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/seryikai)
 
 ---
 
