@@ -119,5 +119,10 @@ Muchos repositorios están diseñados con enfoque educativo, mostrando implement
 - Email: sergio.ferreras.ruiz@gmail.com
 
 ---
+## Si te gusta mi contenido me puedes ayudar comprandome un café, lo agradeceré muchisimo.
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="seryikai" data-color="#FF5F5F" data-emoji=""  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+---
 
 ⭐ Si alguno de mis proyectos te resulta útil, puedes apoyarlo con una estrella.
